@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Console
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 28
+  controlID: 101
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 99
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 150
+  controlID: 100
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -300,7 +300,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 151
+  controlID: 19
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -581,23 +581,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 27}
-    m_SelectedIDs: 66dd0900
-    m_LastClickedID: 646502
-    m_ExpandedIDs: 000000006a8000002c82000036820000bc820000c08200008e9300009093000060dd090000ca9a3b
+    m_SelectedIDs: b4850000
+    m_LastClickedID: 34228
+    m_ExpandedIDs: 000000009483000096830000988300009a8300009c8300009e830000a2850000b685000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Materials
-      m_OriginalName: Materials
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 33296
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a8000006c8000006e800000
+    m_ExpandedIDs: 000000009483000096830000988300009a8300009c8300009e830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -636,8 +636,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 38030000
+    m_LastClickedInstanceID: 824
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -739,23 +739,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 38030000
       m_LastClickedID: 0
-      m_ExpandedIDs: ba6ef6ffd871f6ff4884f6ffec85f6ffb28ff6ff9c90f6ffae94f6ff2a96f6ffee97f6ff829ef6ffd2a9f6ff2cbcf6ff08bdf6ff48bef6ff92cdf6ff52cff6ff8e1bf7ff2e2df7ff622df7ffa644f7ff9845f7fff6bdf7ff6ebef7ff4ac7f7ff8accf7ffbecff7ffa8d0f7ff02d5f7ffb6d8f7ff7ae4f7ff30ebf7fff4edf7ffb205f8ff3209f8ff0a1af8ff30cdf8ffeed6f8ffeae6f8fff2e1fbff04f9fbff101ffcffc225fcff1629fcff5a2dfcff1e30fcff9635fcffa440fcff2e41fcff7e48fcffa84bfcff98ddfdff96f0fdff34f1fdffaaf3fdffbaf3fdff6c18feff7a18feffd01dfeffd81efeff30a2feff74a6feff04b0feff04bcfeff1abcfeff5abdfeff8ed3feff6ee9feffc4f9fefff629ffff122afffff02dffff5a2effff304bffff9e5cffffd261ffffe676ffff2277ffffc6f5ffff72f6ffffd0f6ffffd6f6ffff28fbffff947d000086c10900b2c109003ac309004ac3090050c3090082c30900
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: RightHand Controller
-        m_OriginalName: RightHand Controller
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 639824
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 6}
       m_SearchString: 
